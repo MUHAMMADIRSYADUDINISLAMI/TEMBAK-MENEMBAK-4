@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=Obstacle
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Obstacle\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=Obstacle()
+comment10.params=actor
+comment10.target=boolean\ isTouchingSouthEdge(greenfoot.Actor)
+comment11.params=intersectingActor
+comment11.target=void\ moveToNearestEdge(greenfoot.Actor)
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Act\ -\ do\ whatever\ the\ Obstacle\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment3.params=actor
+comment3.target=int\ getWestEdge(greenfoot.Actor)
+comment4.params=actor
+comment4.target=int\ getEastEdge(greenfoot.Actor)
+comment5.params=actor
+comment5.target=int\ getNorthEdge(greenfoot.Actor)
+comment6.params=actor
+comment6.target=int\ getSouthEdge(greenfoot.Actor)
+comment7.params=actor
+comment7.target=boolean\ isTouchingWestEdge(greenfoot.Actor)
+comment8.params=actor
+comment8.target=boolean\ isTouchingEastEdge(greenfoot.Actor)
+comment9.params=actor
+comment9.target=boolean\ isTouchingNorthEdge(greenfoot.Actor)
+numComments=12

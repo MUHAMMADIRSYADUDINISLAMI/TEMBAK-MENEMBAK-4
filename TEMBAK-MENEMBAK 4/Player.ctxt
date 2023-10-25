@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Player
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Player\ here.\r\n\ \r\n\ @author\ Joe\ Degiovanni\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=Player()
+comment2.params=
+comment2.target=void\ turnAround()
+comment3.params=
+comment3.target=void\ moveAround()
+comment4.params=
+comment4.target=void\ boomBoom()
+comment5.params=
+comment5.target=void\ youLose()
+comment6.params=
+comment6.target=void\ act()
+numComments=7
